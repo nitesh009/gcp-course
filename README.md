@@ -110,11 +110,7 @@ We welcome contributions to enhance this course! Please follow these steps:
 This content is licensed under the [MIT License](LICENSE).  
 Feel free to use, modify, and distribute with attribution.
 
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ---
 
 Happy Learning! 🚀
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
