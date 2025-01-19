@@ -1,0 +1,8 @@
+runtime: java17
+
+env_variables:
+  SPRING_PROFILES_ACTIVE: prod
+
+handlers:
+  - url: /.*
+    script: auto
