@@ -113,3 +113,8 @@ Feel free to use, modify, and distribute with attribution.
 ---
 
 Happy Learning! 🚀
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
